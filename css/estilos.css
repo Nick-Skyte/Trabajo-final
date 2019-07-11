@@ -1,0 +1,23 @@
+body
+	{
+		background-image: url("../imagenes/fondo_pag_principal.jpg");
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+nav
+	{
+		background: rgb(0,23,2);
+		background: -webkit-linear-gradient(rgba(0,23,2,1) 11%, rgba(193,245,255,1) 100%);
+		background: linear-gradient(rgba(0,23,2,1) 11%, rgba(193,245,255,1) 100%);
+	}
+
+article
+		{
+			color: #b6dbd0;
+		}
+
+.Logo
+		{
+			height: 20%;
+		}
